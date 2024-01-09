@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Saads's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadSaad0&show=prs_merged,prs_merged_percentage&show_icons=true&hide=stars&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadSaad0&exclude_repo=Chaye_Runner&langs_count=5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Saads's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadSaad0&show=prs_merged&show_icons=true&hide=stars&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadSaad0&exclude_repo=Chaye_Runner&langs_count=5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--[![Saad's time stats](https://github-readme-stats.vercel.app/api/wakatime?username=MuhammadSaad0)](https://github.com/anuraghazra/github-readme-stats) -->
 
