@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadSaad0)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![Saad's time stats](https://github-readme-stats.vercel.app/api/wakatime?username=MuhammadSaad0)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Saad's time stats](https://github-readme-stats.vercel.app/api/wakatime?username=MuhammadSaad0)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
